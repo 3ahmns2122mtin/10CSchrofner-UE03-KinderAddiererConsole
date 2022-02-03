@@ -1,2 +1,2 @@
-# 10ChristophSchrofner-KinderAddiererConsoleirer
+# 10CSchrofner-KinderAddiererConsole
 Third Project "KinderAddierer"
