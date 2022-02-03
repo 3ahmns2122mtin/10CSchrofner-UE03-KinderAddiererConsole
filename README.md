@@ -21,24 +21,29 @@ WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/10CSchrofner
 Unity 2020.1.18f1
 
 ### Drittmaterial: 
-/
+https://img.besthqwallpapers.com/Uploads/13-2-2021/154552/blackboard-school-texture-blackboard-background-gray-texture-blackboard-texture.jpg
 
 ### Anforderungsliste:  
-Ein funktionierender Addierer zweier Zahlen Ein funktionierender Reset Button Ein funktionierender Calculate Button Eine Warnung bei ungültiger Eingabe
+- Ein funktionierender Addierer zweier Zahlen
+- Ein funktionierender Reset Button
+- Ein funktionierender Berechne Button
+- Eine Warnung und Farbveränderung bei ungültiger Eingabe
 
 ### Limitationen:
-/
+--
 
 ### Lessons Learned:
 - [x] wie addiere ich im script
 - [x] Verwendung von Buttons
+- [x] Verwendung von Inputfields
 - [x] Reset mit Button press
 - [x] Abfrage ob Input richtig ist
-- [x] InputFields aus script ändern
+- [x] InputFields aus Script ändern
 - [x] Zugriff auf Kind Objekte
 - [x] Interaktivität En/Disable
 - [x] Versionskontrolle
 - [x] push/pull mit Git
+- [x] Build WebGL
 
 
 Copyright by CSchrofner :)
