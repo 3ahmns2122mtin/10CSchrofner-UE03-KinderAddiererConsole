@@ -2,8 +2,7 @@
 Third Project "KinderAddierer"
 
 ### Projektbeschreibung
-Mithilfe dieses 2D Projekt kann man einfache Zahlen addieren
-
+Dieses 2D Projekt ist ein Rechner mit dem man 2 einfache Zahlen miteinander addieren kann
 
 ### Entwicklungsplattform: 
 Windows 11, Unity 2020.3.18f1, Visual Studio Version 2019 Community
