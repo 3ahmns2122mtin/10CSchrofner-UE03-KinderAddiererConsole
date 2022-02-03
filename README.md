@@ -12,9 +12,9 @@ Windows 11, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/10CSchrofner-UE03-KinderAddiererConsole/
 
 ### Visuelle Einblicke in das Projekt: 
-![Screenshot (67)](https://user-images.githubusercontent.com/91070191/152304033-d84805af-50bf-43ad-88ea-e4bbc56df8af.png)
-![Screenshot (69)](https://user-images.githubusercontent.com/91070191/152304183-00ab450c-8b8b-4176-bc67-7486a2a861d1.png)
 
+![Screenshot (828)](https://user-images.githubusercontent.com/91070191/152422721-0df39108-77d2-49c2-9b81-b0fea467a7f2.png)
+![Screenshot (830)](https://user-images.githubusercontent.com/91070191/152422731-63cd96f6-23ec-4268-8703-72aa86d9b0e2.png)
 
 
 ### Notwendiges für die Ausführung: 
