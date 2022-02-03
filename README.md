@@ -8,7 +8,7 @@ Dieses 2D Projekt ist ein Rechner mit dem man 2 einfache Zahlen miteinander addi
 Windows 11, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform: 
-WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/10CSchrofner-UE03-KinderAddiererConsole/
+WebGL Referenzauflösung (960x600)  https://3ahmns2122mtin.github.io/10CSchrofner-UE03-KinderAddiererConsole/
 
 ### Visuelle Einblicke in das Projekt: 
 
