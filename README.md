@@ -21,6 +21,7 @@ WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/10CSchrofner
 Unity 2020.1.18f1
 
 ### Drittmaterial: 
+Hintergrundbild
 https://img.besthqwallpapers.com/Uploads/13-2-2021/154552/blackboard-school-texture-blackboard-background-gray-texture-blackboard-texture.jpg
 
 ### Anforderungsliste:  
