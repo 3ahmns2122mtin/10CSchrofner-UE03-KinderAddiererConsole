@@ -17,7 +17,8 @@ WebGL Referenzauflösung (960x600)
 
 ### Visuelle Einblicke in das Projekt: 
 ![Screenshot (67)](https://user-images.githubusercontent.com/91070191/152304033-d84805af-50bf-43ad-88ea-e4bbc56df8af.png)
-![Screenshot (68)](https://user-images.githubusercontent.com/91070191/152304037-dd168a2f-ebc1-4536-8bfa-ab4fa07f2560.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/91070191/152304183-00ab450c-8b8b-4176-bc67-7486a2a861d1.png)
+
 
 
 ### Notwendiges für die Ausführung: 
