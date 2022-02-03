@@ -4,16 +4,12 @@ Third Project "KinderAddierer"
 ### Projektbeschreibung
 Mithilfe dieses 2D Projekt kann man einfache Zahlen addieren
 
-WEB-GL
-https://3ahmns2122mtin.github.io/10CSchrofner-UE03-KinderAddiererConsole/
-
-
 
 ### Entwicklungsplattform: 
 Windows 11, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform: 
-WebGL Referenzauflösung (960x600) 
+WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/10CSchrofner-UE03-KinderAddiererConsole/
 
 ### Visuelle Einblicke in das Projekt: 
 ![Screenshot (67)](https://user-images.githubusercontent.com/91070191/152304033-d84805af-50bf-43ad-88ea-e4bbc56df8af.png)
