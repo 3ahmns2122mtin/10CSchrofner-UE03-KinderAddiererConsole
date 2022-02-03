@@ -18,13 +18,13 @@ WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/10CSchrofner
 
 
 ### Notwendiges für die Ausführung: 
-/
+Unity 2020.1.18f1
 
 ### Drittmaterial: 
 /
 
 ### Anforderungsliste:  
-/
+Ein funktionierender Addierer zweier Zahlen Ein funktionierender Reset Button Ein funktionierender Calculate Button Eine Warnung bei ungültiger Eingabe
 
 ### Limitationen:
 /
